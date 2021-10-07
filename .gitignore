@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Logs
 logs
 *.log
@@ -132,7 +131,3 @@ dist
 .env.test.local
 .env.production.local
 
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
->>>>>>> dfc0978744cb9895e766b80dc6a9eb651fcbe4f7
