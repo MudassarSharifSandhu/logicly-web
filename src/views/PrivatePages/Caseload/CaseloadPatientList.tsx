@@ -911,13 +911,6 @@ class CaseloadPatientList extends React.Component<any, IState> {
                   ROUTINEVISIT
                 </span>
               </div>
-              <div className="legends-div">
-                <span id="COMPLETE" >
-                </span>&nbsp;&nbsp;
-                <span >
-                  COMPLETE
-                </span>
-              </div>
           </div>
           </div>
         </div>
