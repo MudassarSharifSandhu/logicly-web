@@ -249,6 +249,9 @@ const PatientDetail: React.FC = () => {
     //   DRE = UTIL.getDate(finalDRE);
     // }
   }
+  else{
+    detail.evaluation = detail.admission;
+  }
 
   const saveData = async (data: any) => {
     try {
